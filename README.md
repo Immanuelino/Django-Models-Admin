@@ -1,2 +1,2 @@
-# Django-Models-Admin
-EBAC - Django Models and Admin - Modulo 53
+# Django-Views
+Ebac - Practica m52. (Django Views)
